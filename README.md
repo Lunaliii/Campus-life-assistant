@@ -1,1 +1,5 @@
-# Campus life assistant
+<br>Functional requirements</br>
+The main page framework of the app is divided into three modules: "Home", "Publish" and "My". The "Home" section is the basic part of the app, the main function of which is to push real-time news for users to browse and understand; the "Publish" section is used to realize daily second-hand transactions and exchange forums, classify the information of items and realize accurate search for users; "My" is the user section, which realizes users' filling and modification of personal information after logging in. "My" is the user section, which enables users to fill in and modify their personal information after logging in. Users post their own posts on the app to answer questions and solve problems. For example, idle items trading, confessions and friendships, campus part-time jobs, spring and autumn school recruitment, etc. Meanwhile, it comes with some other small functions, such as dining selector, etc. It enriches and facilitates the campus life of college students.
+
+<img width="365" alt="image" src="https://user-images.githubusercontent.com/99331276/190901628-4bd03332-d6da-4b70-8047-41532045d1c2.png">
+
