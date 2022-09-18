@@ -1,1 +1,1 @@
-# Currency
+# Campus life assistant
